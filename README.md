@@ -3,6 +3,6 @@
 
 
 
-dohuya lines of code and (almost) perfect visuals =З
+Not very much lines of code and (almost) perfect visuals =З
   *my first big project yo
 
