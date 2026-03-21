@@ -1,8 +1,8 @@
-# n4+
-simple text editor on python.
+# **/n4+**
+**simple text editor on python.**
 
 
 
-218 lines of code and (almost) perfect visuals =З
-
+dohuya lines of code and (almost) perfect visuals =З
+  *my first big project yo
 
